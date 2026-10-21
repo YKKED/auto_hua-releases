@@ -19,16 +19,16 @@
 
 ### 2. 下载并打开软件
 
-从以下任一平台下载 **1.2.3 正式版**：
+从以下任一平台下载 **1.2.4 正式版**：
 
-- [GitHub](https://github.com/YKKED/auto_hua-releases/releases/tag/v1.2.3)
-- [GitCode](https://gitcode.com/m0_66990166/auto_hua-releases/releases/v1.2.3)
-- [Gitee 备用下载](https://gitee.com/YKKED/auto_hua-releases/releases/tag/v1.2.3)
+- [GitHub](https://github.com/YKKED/auto_hua-releases/releases/tag/v1.2.4)
+- [GitCode](https://gitcode.com/m0_66990166/auto_hua-releases/releases/v1.2.4)
+- [Gitee 备用下载](https://gitee.com/YKKED/auto_hua-releases/releases/tag/v1.2.4)
 
 GitHub、GitCode 下载 **auto_hua-portable.zip**。Gitee 下载以下三个文件，放在同一个文件夹并保留原文件名：
 
-1. **auto_hua-1.2.3.zip.001**
-2. **auto_hua-1.2.3.zip.002**
+1. **auto_hua-1.2.4.zip.001**
+2. **auto_hua-1.2.4.zip.002**
 3. **merge-download.cmd**
 
 使用 Gitee 下载时，双击 **merge-download.cmd**，等待合并和校验成功，生成 **auto_hua-portable.zip**。
