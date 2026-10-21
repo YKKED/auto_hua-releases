@@ -4,7 +4,7 @@
 
 ## 功能
 
-- **活动任务**：支持自动完成活动任务。
+- **活动任务**：选择活动，自动完成任务。
 - **自动捕鱼**：支持月灵之森六个关卡，可设置关卡、自动选炮和运行上限。
 - **任务队列**：勾选安排任务，优先执行活动；设置即时生效。
 - **软件更新**：在软件内检查、下载并安装新版本。
@@ -19,16 +19,16 @@
 
 ### 2. 下载并打开软件
 
-从以下任一平台下载 **1.2.1 正式版**：
+从以下任一平台下载 **1.2.2 正式版**：
 
-- [GitHub](https://github.com/YKKED/auto_hua-releases/releases/tag/v1.2.1)
-- [GitCode](https://gitcode.com/m0_66990166/auto_hua-releases/releases/v1.2.1)
-- [Gitee 备用下载](https://gitee.com/YKKED/auto_hua-releases/releases/tag/v1.2.1)
+- [GitHub](https://github.com/YKKED/auto_hua-releases/releases/tag/v1.2.2)
+- [GitCode](https://gitcode.com/m0_66990166/auto_hua-releases/releases/v1.2.2)
+- [Gitee 备用下载](https://gitee.com/YKKED/auto_hua-releases/releases/tag/v1.2.2)
 
 GitHub、GitCode 下载 **auto_hua-portable.zip**。Gitee 下载以下三个文件，放在同一个文件夹并保留原文件名：
 
-1. **auto_hua-1.2.1.zip.001**
-2. **auto_hua-1.2.1.zip.002**
+1. **auto_hua-1.2.2.zip.001**
+2. **auto_hua-1.2.2.zip.002**
 3. **merge-download.cmd**
 
 使用 Gitee 下载时，双击 **merge-download.cmd**，等待合并和校验成功，生成 **auto_hua-portable.zip**。
@@ -47,7 +47,7 @@ GitHub、GitCode 下载 **auto_hua-portable.zip**。Gitee 下载以下三个文�
 
 ### 4. 选择任务
 
-- **活动**：打开「活动」，勾选「加入队列」。
+- **活动**：打开「活动」，选择活动，再勾选「加入队列」。
 - **捕鱼**：打开「捕鱼设置」，选择已解锁的「捕鱼关卡」，按需设置自动选炮、保留资源和运行上限，再勾选「加入队列」。标有「0 不限」的项目填 0 表示不限制该项。
 
 设置自动保存并立即生效。两项都勾选时，先执行活动，再执行捕鱼。
