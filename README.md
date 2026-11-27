@@ -4,7 +4,7 @@
 
 ## 功能
 
-- **活动任务**：自动完成活动任务；「变装派对」支持舞会疑踪及镜像人物识别。
+- **活动任务**：支持舞会疑踪、收集墨水和雪球滚滚。
 - **恶德花园**：刷取勇者金币和宝石，支持九张地图。
 - **月灵之森**：支持六个捕鱼关卡，可设置关卡、自动选炮和运行上限。
 - **任务队列**：按优先级执行任务，设置即时生效。
@@ -20,19 +20,12 @@
 
 ### 2. 下载并打开软件
 
-从以下任一平台下载 **1.3.2 正式版**：
+从以下任一平台下载 **1.3.3 正式版**：
 
-- [GitHub](https://github.com/YKKED/auto_hua-releases/releases/tag/v1.3.2)
-- [GitCode](https://gitcode.com/m0_66990166/auto_hua-releases/releases/v1.3.2)
-- [Gitee 备用下载](https://gitee.com/YKKED/auto_hua-releases/releases/tag/v1.3.2)
+- [GitHub](https://github.com/YKKED/auto_hua-releases/releases/tag/v1.3.3)
+- [GitCode](https://gitcode.com/m0_66990166/auto_hua-releases/releases/v1.3.3)
 
-GitHub、GitCode 下载 **auto_hua-portable.zip**。Gitee 下载以下三个文件，放在同一个文件夹并保留原文件名：
-
-1. **auto_hua-1.3.2.zip.001**
-2. **auto_hua-1.3.2.zip.002**
-3. **merge-download.cmd**
-
-使用 Gitee 下载时，双击 **merge-download.cmd**，等待合并和校验成功，生成 **auto_hua-portable.zip**。
+下载 **auto_hua-portable.zip**。
 
 将压缩包完整解压，再双击文件夹内的 **auto_hua.exe**。不要直接在压缩包中运行。
 
@@ -48,7 +41,7 @@ GitHub、GitCode 下载 **auto_hua-portable.zip**。Gitee 下载以下三个文�
 
 ### 4. 选择任务
 
-- **活动**：打开「活动」，选择活动并勾选「加入队列」；舞会疑踪请选择「变装派对」。
+- **活动**：打开「活动」，选择活动并勾选「加入队列」；舞会疑踪、收集墨水、雪球滚滚分别选择「变装派对」「秋日丰收簿」「初雪订单」。
 - **恶德花园**：先在游戏中转职为「倒吊之人」，解锁下表中的目标普通关卡。在软件「恶德花园」中勾选「刷勇者金币」或「刷宝石」，再勾选「加入队列」。
 - **月灵之森**：选择已解锁的「捕鱼关卡」，按需设置自动选炮、保留资源和运行上限，再勾选「加入队列」。标有「0 不限」的项目填 0 表示不限制该项。
 
